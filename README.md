@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/faisaltanwar5155-design/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/faisaltanwar5155-design/DAA-Assignment/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/faisaltanwar5155-design/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/faisaltanwar5155-design/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/faisaltanwar5155-design/DAA-Assignment/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/faisaltanwar5155-design/DAA-Assignment/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
